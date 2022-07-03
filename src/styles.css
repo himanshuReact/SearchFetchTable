@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* tr {
+  border: 1px solid red;
+} */
+
+/* td {
+  border: 2px solid red;
+} */
+.book__details {
+  margin: 2vw auto;
+  background-color: #dcdcdc;
+}
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
